@@ -1,3 +1,19 @@
-h1 {
-    color: #FF0000;
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+.container_hero {
+    display: flex;
+}
+
+.container_hero_contentName {
+    width: 50%;
+    background-color: #FF9ACC;
+}
+
+.container_hero_contentIntro {
+    width: 50%;
+    background-color: #FF19A4;
+
 }
