@@ -18,6 +18,10 @@
 
 }
 
-p {
+h1 { 
+    font-family: 'Shrikhand', serif;
+}
+
+h2, p {
     font-family: 'Space Grotesk', sans-serif;
 }
