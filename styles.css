@@ -22,7 +22,7 @@ h1 {
     font-family: 'Shrikhand', serif;
 }
 
-h2, p {
+h2 {
     font-family: 'Space Grotesk', sans-serif;
 }
 
@@ -30,4 +30,18 @@ a {
     text-decoration: none;
     color: #000000;
     font-family: 'Space Grotesk', sans-serif;
+}
+
+.contentIntro_leadText {
+    font-family: 'Space Grotesk', sans-serif;
+    color: #ffffff;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.contentIntro_noteText {
+    font-family: 'Space Grotesk', sans-serif;
+    color: #ffffff;
+    font-size: 1.25rem;
+    font-weight: 700;
 }
