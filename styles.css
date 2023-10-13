@@ -32,6 +32,11 @@ a {
     text-decoration: none;
     color: #000000;
     font-family: 'Space Grotesk', sans-serif;
+    font-size: 3.34rem;
+}
+
+ul { 
+    list-style: none; 
 }
 
 .contentIntro_leadText {
