@@ -5,6 +5,7 @@
 
 .container_hero {
     display: flex;
+    height: 100vh;
 }
 
 .container_hero_contentName {
