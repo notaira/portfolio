@@ -39,6 +39,11 @@ ul {
     list-style: none; 
 }
 
+.mainNav ul {
+    display: flex;
+    justify-content: space-between; 
+}
+
 .contentIntro_leadText {
     font-family: 'Space Grotesk', sans-serif;
     color: #ffffff;
