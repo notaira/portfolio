@@ -11,12 +11,13 @@
 .container_hero_contentName {
     width: 50%;
     background-color: #FF9ACC;
+    padding: 3.125rem;
 }
 
 .container_hero_contentIntro {
     width: 50%;
     background-color: #FF19A4;
-
+    padding: 3.125rem;
 }
 
 h1 { 
