@@ -22,6 +22,7 @@
 
 h1 { 
     font-family: 'Shrikhand', serif;
+    font-size: 5.9rem;
 }
 
 h2 {
@@ -57,4 +58,5 @@ ul {
     color: #ffffff;
     font-size: 1.25rem;
     font-weight: 700;
+    margin-bottom: 15rem;
 }
