@@ -16,14 +16,14 @@
 
 .container_hero_contentIntro {
     width: 50%;
-    background-color: #4b4bff;
+    background-color: #ff19a4;
     padding: 3.125rem;
 }
 
 h1 { 
     font-family: 'Shrikhand', serif;
     font-size: 5.9rem;
-    color: #4b4bff;
+    color: #ff19a4;
 }
 
 h2 {
@@ -62,37 +62,28 @@ ul {
     margin-bottom: 15rem;
 }
 
-.container_selectedProjects__wrapper {
-    height: 100vh;
-}
-
 .container_selectedProjects__content {
     display: flex;
-    justify-content: space-between;
     height: 100vh;
+    background-color: #000000;   
 }
 
-.container_selectedProjects__content h2 {
+.container_selectedProjects__content img {
+    width: 50%;
+    object-fit: cover;
+}
+
+.selectedProjects__info {
+    padding: 3.125rem;
+}
+
+.selectedProjects__info h2 {
     color: #ffffff;
     font-size: 2.5rem;
     margin-bottom: 2rem;
 }
 
-.container_selectedProjects__content a {
+.selectedProjects__info a {
     color: #ffffff;
     font-size: 1.5rem;
-}
-
-.selectedProjects__image {
-    width: 50%;
-    background-color: pink;
-}
-
-.selectedProjects__image img {
-    width: 100px;
-}
-
-.selectedProjects__info {
-    width: 50%;
-    background-color: red;
 }
