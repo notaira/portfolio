@@ -67,21 +67,32 @@ ul {
 }
 
 .container_selectedProjects__content {
-    background-color: #000000;
-    padding: 3.125rem;
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
 }
 
 .container_selectedProjects__content h2 {
     color: #ffffff;
-     font-size: 2.5rem;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
 }
 
 .container_selectedProjects__content a {
     color: #ffffff;
-     font-size: 2.5rem;
+    font-size: 1.5rem;
 }
 
-.container_selectedProjects__content img {
-    width: 500px;
-    text-align: center;
+.selectedProjects__image {
+    width: 50%;
+    background-color: pink;
+}
+
+.selectedProjects__image img {
+    width: 100px;
+}
+
+.selectedProjects__info {
+    width: 50%;
+    background-color: red;
 }
