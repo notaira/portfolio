@@ -61,3 +61,12 @@ ul {
     font-weight: 700;
     margin-bottom: 15rem;
 }
+
+.container_selectedProjects__wrapper {
+    height: 100vh;
+}
+
+.container_selectedProjects__content {
+    background-color: aqua;
+    padding: 3.125rem;
+}
