@@ -87,3 +87,20 @@ ul {
     color: #ffffff;
     font-size: 1.5rem;
 }
+
+.ewebproject__animation {
+padding-right: 260px;
+position: relative;
+}
+
+.ewebproject__animation img {
+  transition: transform 0.5s ease;
+}
+
+.ewebproject__animation:hover img {
+  transform: rotate(-5deg);
+}
+
+img {
+    width: 500px;
+}
