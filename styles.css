@@ -106,3 +106,15 @@ ul {
 .animation__content:hover img {
     transform: rotate(-5deg);
 }
+
+.animation__text {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    width: 22rem;
+    transform: translateY(-50%);
+}
+
+.animation__text h2 {
+    font-size: 5rem;
+}
