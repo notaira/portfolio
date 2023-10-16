@@ -88,19 +88,21 @@ ul {
     font-size: 1.5rem;
 }
 
-.ewebproject__animation {
-padding-right: 260px;
-position: relative;
+.ewebproject__animation__wrapper {
+    padding: 10rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.ewebproject__animation img {
-  transition: transform 0.5s ease;
+.animation__content {
+    position: relative;
 }
 
-.ewebproject__animation:hover img {
-  transform: rotate(-5deg);
+.animation__content img {
+    width: 50rem;
+    transition: transform 0.5s ease;
 }
 
-img {
-    width: 500px;
+.animation__content:hover img {
+    transform: rotate(-5deg);
 }
