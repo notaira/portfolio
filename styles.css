@@ -119,3 +119,11 @@ ul {
 .animation__text h2 {
     font-size: 5rem;
 }
+
+.container_aboutme__wrapper {
+    background-color: #000000;
+}
+
+.container_aboutme__wrapper h2, p {
+    color: #ffffff;
+}
