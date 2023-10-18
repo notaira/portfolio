@@ -127,3 +127,25 @@ ul {
 .container_aboutme__wrapper h2, p {
     color: #ffffff;
 }
+
+.changingText {     
+    height: 100vh;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.changingText p {     
+    padding: 5rem;
+    font-family: 'Shrikhand', serif;
+    font-size: 5.9rem;
+    color: #ff19a4;
+}
+
+.changingText_altText p {
+    padding: 5rem;
+    font-family: 'Shrikhand', serif;
+    font-size: 5.9rem;
+    color: #ff19a4;
+}
