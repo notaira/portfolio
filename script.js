@@ -3,7 +3,6 @@ const textArray = [
     "Graphic Design",
     "Marketing",
     "Online Marketing",
-    "Human Resources",
     "Project Management",
     "Social Media Management",
     "UI Design",
