@@ -1,8 +1,16 @@
 const textArray = [
-    "test",
-    "1",
-    "2",
-    "3"
+    "Event Planning",
+    "Graphic Design",
+    "Marketing",
+    "Online Marketing",
+    "Human Resources",
+    "Project Management",
+    "Social Media Management",
+    "UI Design",
+    "UX Design",
+    "Web Design",
+    "Web Development"
+
 ]; 
 
 let currentIndex = 0; 
