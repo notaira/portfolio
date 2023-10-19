@@ -137,6 +137,12 @@ ul {
     padding: 10rem;
 } 
 
+.changingText_title h3 {
+    font-family: 'Shrikhand', serif;
+    font-size: 1rem;
+    color: #ff19a4;
+}
+
 .container_changingText p {
     font-family: 'Shrikhand', serif;
     font-size: 3rem;
@@ -151,4 +157,4 @@ ul {
     font-family: 'Shrikhand', serif;
     font-size: 3rem;
     color: #5619ff;
-}
+} 
