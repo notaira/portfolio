@@ -128,22 +128,26 @@ ul {
     color: #ffffff;
 }
 
-.changingText_title {     
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
-.changingText_title p {     
-    padding: 5rem;
+/* Changing Text */
+
+.container_changingText {
+    height: 100vh;
+    text-align: center;
+    padding: 10rem;
+} 
+
+.container_changingText p {
     font-family: 'Shrikhand', serif;
     font-size: 3rem;
     color: #ff19a4;
 }
 
+.changingText_altText p {
+    color: #5619ff;
+}
+
 .changingText_altText {
-    padding: 5rem;
     font-family: 'Shrikhand', serif;
     font-size: 3rem;
     color: #5619ff;
